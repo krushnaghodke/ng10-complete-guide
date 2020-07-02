@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng10-complete-guide"
+    }
+  },
+  "defaultProject": "ng10-complete-guide",
+  "cli": {
+    "analytics": "02efbefe-001b-49ce-a660-0852abbdcd05"
+  }
 }
